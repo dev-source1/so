@@ -1,10 +1,10 @@
 {
-    "name": "𝗥𝗘𝗣𝗧𝗛𝗢𝗡",
-    "description": "• تنصيب سـورس ريبـــثون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
-    "logo": "https://graph.org/file/5d3e657e910057f03a8aa.jpg",
+    "name": "TEPTHON",
+    "description": "• تنصيب سـورس تيبثـون مجانًا علـى منصـة سكـالينجـو • أفضـل سـورسـات يـوزربـوت العربيـة",
+    "logo": "https://files.catbox.moe/x7zmjp.jpg",
     "addons": ["scalingo-postgresql"],
     "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app","app","webapp"],
-    "repository": "https://github.com/Repthon-Arabic/Scalingo",
+    "repository": "https://github.com/dev-source1/so",
     "website": "https://baqir-flask.scalingo.io",
     "stack": "container",
     "env": {
